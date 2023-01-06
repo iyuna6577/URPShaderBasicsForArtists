@@ -78,7 +78,7 @@ Material:
     - _Glossiness: 0
     - _GlossyReflections: 0
     - _Metallic: 0
-    - _Multiply: 1
+    - _Multiply: 4
     - _OcclusionStrength: 1
     - _QueueOffset: 0
     - _ReceiveShadows: 1
